@@ -1,0 +1,3 @@
+Esto es una clase aclaradora de los 
+conceptos fundamentales de Excepciones
+Disfruten comprender nuevos conceptos.
