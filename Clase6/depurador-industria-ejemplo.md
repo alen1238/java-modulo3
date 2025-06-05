@@ -128,3 +128,46 @@ Usa el depurador y encuentra por qué el resultado no incluye la propina. **No h
 Analiza cada línea y busca **el error de lógica**.
 
 ---
+#  Ejercicio 2: Comparación
+
+```java
+public class ComparacionCadenas {
+    public static void main(String[] args) {
+        String respuesta = "sí";
+
+        if (respuesta == "sí") {
+            System.out.println("Usuario aceptó los términos.");
+        } else {
+            System.out.println("Usuario no aceptó los términos.");
+        }
+    }
+}
+```
+
+###  Actividad
+
+Este programa siempre imprime que **el usuario no aceptó los términos**, aunque la variable `respuesta` es `"sí"`. ¿Por qué ocurre esto? Usa el depurador para explorar el valor de la variable y comprender el problema.
+
+---
+
+## Ejercicio 3: Ciclo infinito sutil
+
+```java
+public class ContadorRaro {
+    public static void main(String[] args) {
+        int numero = 1;
+
+        while (numero != 10) {
+            System.out.println("Número: " + numero);
+            numero = numero + 2;
+        }
+
+        System.out.println("¡Finalizado!");
+    }
+}
+```
+
+### Actividad
+
+Este programa nunca termina. Usa el depurador para descubrir **por qué la condición nunca se cumple**. Observa cómo cambia la variable `numero` y cómo afecta a la condición `while`.
+
