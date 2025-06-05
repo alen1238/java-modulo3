@@ -121,7 +121,7 @@ public class App {
 
 ---
 
-## 🧭 Actividad
+## Actividad
 
 Usa el depurador y encuentra por qué el resultado no incluye la propina. **No hay errores de compilación ni excepciones**, pero el total está mal.
 
