@@ -3,7 +3,7 @@
 
 Usar el **debugger** en la industria del desarrollo de software no solo es común, **es esencial**. A continuación se exponen situaciones **muy reales y frecuentes** donde el depurador es la mejor herramienta:
 
----
+----
 
 ## 1. NullPointerException
 
