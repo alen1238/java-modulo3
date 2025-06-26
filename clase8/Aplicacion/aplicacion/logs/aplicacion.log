@@ -1,0 +1,16 @@
+2025-06-25 19:35:41,750 [main] ERROR com.devsenior.ServicioClimatico - Temperatura fuera de rango: -100.0
+2025-06-25 19:35:41,791 [main] INFO  com.devsenior.ServicioClimatico - Lectura asignada a la estación: null
+2025-06-25 19:35:41,801 [main] ERROR com.devsenior.ServicioClimatico - Humedad fuera de rango: 150.0
+2025-06-25 19:36:37,835 [main] ERROR com.devsenior.ServicioClimatico - Temperatura fuera de rango: -100.0
+2025-06-25 19:36:37,875 [main] INFO  com.devsenior.ServicioClimatico - Lectura asignada a la estación: null
+2025-06-25 19:36:37,885 [main] ERROR com.devsenior.ServicioClimatico - Humedad fuera de rango: 150.0
+2025-06-25 19:38:04,622 [main] ERROR com.devsenior.ServicioClimatico - Temperatura fuera de rango: -100.0
+2025-06-25 19:38:04,662 [main] INFO  com.devsenior.ServicioClimatico - Lectura asignada a la estación: null
+2025-06-25 19:38:04,673 [main] ERROR com.devsenior.ServicioClimatico - Humedad fuera de rango: 150.0
+2025-06-25 19:39:10,735 [main] ERROR com.devsenior.ServicioClimatico - Temperatura fuera de rango: -100.0
+2025-06-25 19:39:32,039 [main] ERROR com.devsenior.ServicioClimatico - Temperatura fuera de rango: -100.0
+2025-06-25 19:40:11,889 [main] ERROR com.devsenior.ServicioClimatico - Temperatura fuera de rango: -100.0
+2025-06-25 19:40:42,674 [main] ERROR com.devsenior.ServicioClimatico - Humedad fuera de rango: 150.0
+2025-06-25 19:40:52,067 [main] ERROR com.devsenior.ServicioClimatico - Temperatura fuera de rango: -100.0
+2025-06-25 19:40:52,123 [main] INFO  com.devsenior.ServicioClimatico - Lectura asignada a la estación: null
+2025-06-25 19:40:52,137 [main] ERROR com.devsenior.ServicioClimatico - Humedad fuera de rango: 150.0
